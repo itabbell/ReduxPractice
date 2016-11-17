@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    user-select: none;
+}
+
+.addressContainer{
+    width: 70%;
+    margin: 2rem auto;
+}
+
+.adminContainer{
+    text-align: center;
+}
+
+.adminSection{
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+.adminSection p{
+    display: inline-block;
+    margin-right: .5rem;
+    width: 6rem;
+}
+
+.btn{
+    padding: .5rem 1rem;
+    margin: 1rem .25rem;
+    background-color: #AAA;
+    display: inline-block;
+}
+
+.reset{
+    display: block;
+}
